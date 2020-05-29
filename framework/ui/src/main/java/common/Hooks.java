@@ -67,7 +67,7 @@ public class Hooks {
 				System.err.println(somePlatformsDontSupportScreenshots.getMessage());
 			}
 		}
-		Reporter.loadXMLConfig(new File("C:/Users/Akshay/Desktop/framework/ui/src/main/resources/extent-config.xml"));
+		Reporter.loadXMLConfig(new File("C:\\Users\\Akshay\\git\\framework\\framework\\Flipkart\\src\\main\\java\\extent-config.xml"));
 		Reporter.setSystemInfo("user", System.getProperty("user.name"));
 		Reporter.setSystemInfo("os", "Mac OSX");
 		Reporter.setTestRunnerOutput("Sample test runner output message");
