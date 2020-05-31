@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 9679329800,
+  "duration": 9093192900,
   "status": "passed"
 });
 formatter.scenario({
@@ -53,43 +53,43 @@ formatter.match({
   "location": "SmokeSuite.user_navigate_to_Flipkart()"
 });
 formatter.result({
-  "duration": 11028172100,
+  "duration": 7145020900,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeSuite.user_enter_username()"
 });
 formatter.result({
-  "duration": 501335700,
+  "duration": 448817300,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeSuite.user_enter_password()"
 });
 formatter.result({
-  "duration": 257523400,
+  "duration": 184549000,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeSuite.click_on_sign_in_button()"
 });
 formatter.result({
-  "duration": 114098700,
+  "duration": 119266800,
   "status": "passed"
 });
 formatter.match({
   "location": "SmokeSuite.user_should_be_logged_in()"
 });
 formatter.result({
-  "duration": 3947500,
+  "duration": 2112000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 2300375000,
+  "duration": 54587500,
   "status": "passed"
 });
 formatter.after({
-  "duration": 54585200,
+  "duration": 1922186200,
   "status": "passed"
 });
 });
