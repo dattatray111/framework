@@ -66,3 +66,4 @@
 [0529/224936.980:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
 [0529/225434.662:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
 [0529/225612.019:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
+[0531/123517.621:ERROR:prune_crash_reports.cc(35)] PruneCrashReportDatabase: Failed to get pending reports
