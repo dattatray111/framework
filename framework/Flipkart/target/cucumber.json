@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 7835821900,
+              "duration": 9679329800,
               "status": "passed"
             },
             "match": {
@@ -21,20 +21,20 @@
         "after": [
           {
             "result": {
-              "duration": 555706600,
-              "status": "passed"
-            },
-            "match": {
-              "location": "Hooks.Report(Scenario)"
-            }
-          },
-          {
-            "result": {
-              "duration": 4697526900,
+              "duration": 2300375000,
               "status": "passed"
             },
             "match": {
               "location": "Hooks.cleanUp(Scenario)"
+            }
+          },
+          {
+            "result": {
+              "duration": 54585200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.Report(Scenario)"
             }
           }
         ],
@@ -43,7 +43,7 @@
         "steps": [
           {
             "result": {
-              "duration": 34326856600,
+              "duration": 11028172100,
               "status": "passed"
             },
             "line": 6,
@@ -55,7 +55,7 @@
           },
           {
             "result": {
-              "duration": 5648955500,
+              "duration": 501335700,
               "status": "passed"
             },
             "line": 7,
@@ -67,7 +67,7 @@
           },
           {
             "result": {
-              "duration": 419832900,
+              "duration": 257523400,
               "status": "passed"
             },
             "line": 8,
@@ -79,7 +79,7 @@
           },
           {
             "result": {
-              "duration": 5250683000,
+              "duration": 114098700,
               "status": "passed"
             },
             "line": 9,
@@ -91,7 +91,7 @@
           },
           {
             "result": {
-              "duration": 31924200,
+              "duration": 3947500,
               "status": "passed"
             },
             "line": 10,
